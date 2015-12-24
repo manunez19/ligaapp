@@ -1,0 +1,32 @@
+{
+	"noticias" : [
+
+		{
+			"title": "COPA LIBERTADORES",
+			"description": "Estos son los equipos que enfrentara LIGA"
+		},
+
+		{
+			"title": "SE ACABO EL CAMPEONATO",
+			"description": "Termino el campeonato Ecuatoriano 2015"
+		},
+
+		{
+			"title": "NUEVO REFUERZO",
+			"description": "Este jugador viene a reforzar a la U"
+		},
+
+		{
+			"title": "VERA RENOVO",
+			"description": "Enrique Vera renovo con LIGA"
+		},
+
+		{
+			"title": "RODRIGO PAZ DE CUMPLEAÑOS",
+			"description": "El máximo dirijente de LIGA esta de cumple"
+		}
+
+	] 
+}
+
+	
