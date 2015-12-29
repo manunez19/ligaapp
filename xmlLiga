@@ -17,13 +17,13 @@
 
 		<!-- ******************************************IMAGEN DE LA NOTICIA*****************************************-->
 		
-		<imagen>http://localhost/imagenes/liga5.png</imagen>
+		<imagen>https://raw.githubusercontent.com/manunez19/imagenes/master/liga5.png</imagen>
 
 		<!-- ******************************************TITULO DE LA NOTICIA*****************************************-->
 
 		<title>
 
-COPA LIBERTADORES 2016: conoce los equipos con los que jugará Liga en la Copa Libertadores
+COPA LIBERTADORES: conoce los equipos con los que jugará Liga en la Copa Libertadores
 
 		</title>
 
@@ -66,7 +66,7 @@ Es decir, LIGA deberá viajar a Brasil, Argentina y México, una llave muy cerra
 
 		<!-- ******************************************IMAGEN DE LA NOTICIA*****************************************-->
 		
-		<imagen>http://localhost/imagenes/liga1.png</imagen>
+		<imagen>https://raw.githubusercontent.com/manunez19/imagenes/master/liga5.png</imagen>
 
 		<!-- ******************************************TITULO DE LA NOTICIA*****************************************-->
 
