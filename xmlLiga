@@ -1,4 +1,4 @@
-<rss version = "1.0">
+<xml? version = "1.0" encoding="UTF-8"?>
 
 <channel>
 
@@ -30,7 +30,7 @@ COPA LIBERTADORES: conoce los equipos con los que jugará Liga en la Copa Libert
 		<!-- ******************************************DESCRIPCION DE LA NOTICIA**************************************** -->
 		
 		<description>
-<b><i>COPA LIBERTADORES: conoce los equipos con los que jugará Liga en la Copa Libertadores</i></b>
+<![CDATA[<b>COPA LIBERTADORES: conoce los equipos con los que jugará Liga en la Copa Libertadores</b>]]>
 
 Fecha: 22 de Diciembre del 2015
 
