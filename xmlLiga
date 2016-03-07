@@ -31,6 +31,7 @@ Somos muy autocríticos con lo que hacemos en cada uno de los partidos
 		
 		<description>
 		
+<![CDATA[<b>All XML documents must contain a single tag pair to define the root element.</b><br> All other elements must be nested within the root element. All elements can have sub (children) elements.<br><i> Sub elements must be in pairs and correctly nested within their parent element.</i>]]>
 <bold>Somos muy autocríticos con lo que hacemos en cada uno de los partidos</bold>
 
 Este día miércoles hubo atención a la prensa después del entrenamiento en el Complejo de Pomasqui, Norberto Araujo fue uno de los elegidos para comparecer ante la prensa.
