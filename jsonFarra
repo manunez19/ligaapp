@@ -1,0 +1,26 @@
+[
+	{
+		"country":"Norte de Quito",
+		"code":"AF"
+	},
+	{
+		"country":"Centro de Quito",
+		"code":"AX"
+	},
+	{	
+		"country":"Sur de Quito",
+		"code":"AL"
+	},
+	{
+		"country":"Foch",
+		"code":"DZ"
+	},
+	{	
+		"country":"Cumbaya",
+		"code":"ZM"
+	},
+	{
+		"country":"Tumbaco",
+		"code":"ZW"
+	}
+]
