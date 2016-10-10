@@ -1,1 +1,20 @@
-sectores
+[
+	{
+		"bar":"Aura"
+	},
+	{
+		"bar":"Love Music Gallery"
+	},
+	{	
+		"bar":"La Bipolar"
+	},
+	{
+		"bar":"Hashtag"
+	},
+	{	
+		"bar":"Lola "
+	},
+	{
+		"bar":"Epica"
+	}
+]
