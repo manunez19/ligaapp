@@ -1,26 +1,48 @@
 [
-	{
-		"country":"Norte de Quito",
-		"code":"AF"
-	},
-	{
-		"country":"Centro de Quito",
-		"code":"AX"
-	},
-	{	
-		"country":"Sur de Quito",
-		"code":"AL"
-	},
-	{
-		"country":"Foch",
-		"code":"DZ"
-	},
-	{	
-		"country":"Cumbaya",
-		"code":"ZM"
-	},
-	{
-		"country":"Tumbaco",
-		"code":"ZW"
-	}
+    {
+        "country": "Brazil",
+        "city": [
+            "Sao Paulo",
+            "Rio de Janeiro"
+        ]
+    },
+    {
+        "country": "Germany",
+        "city": [
+            "Berlin",
+            "Frankfurt"
+        ]
+    },
+    {
+        "country": "France",
+        "city": [
+            "Paris",
+            "Marselle"
+        ]
+    },
+    {
+        "country": "USA",
+        "city": [
+            "Florida",
+            "New York",
+            "California",
+            "Nevada"
+        ]
+    },
+    {
+        "country": "Argentina",
+        "city": [
+            "Buenos Aires",
+            "Mendoza",
+            "La Plata"
+        ]
+    },
+    {
+        "country": "England",
+        "city": [
+            "London",
+            "Manchester",
+            "Liverpool"
+        ]
+    }
 ]
