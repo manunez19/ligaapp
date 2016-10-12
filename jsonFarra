@@ -1,27 +1,27 @@
 [
 	{
 		"country":"Brazil",
-		"code":"AF"
+		"code":"BR"
 	},
 	{
 		"country":"Germany",
-		"code":"AX"
+		"code":"GE"
 	},
 	{	
 		"country":"France",
-		"code":"AL"
+		"code":"FR"
 	},
 	{
 		"country":"USA",
-		"code":"DZ"
+		"code":"US"
 	},
 	{	
 		"country":"Argentina",
-		"code":"ZM"
+		"code":"AR"
 	},
 	{
 		"country":"Portugal",
-		"code":"ZW"
+		"code":"PO"
 	},
 	{
 		"country":"England",
