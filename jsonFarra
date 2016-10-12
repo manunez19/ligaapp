@@ -22,13 +22,5 @@
 	{
 		"country":"Portugal",
 		"code":"PO"
-	},
-	{
-		"country":"England",
-		"code":"EN"
-	},
-	{
-		"country":"Spain",
-		"code":"ES"
 	}
 ]
