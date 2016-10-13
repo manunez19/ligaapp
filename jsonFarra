@@ -17,15 +17,5 @@
 	{
 		"country":"Nevada",
 		"city":["Florida", "New York", "California", "Nevada"]
-	},
-	
-	{	
-		"country":"Argentina",
-		"city":["Buenos Aires", "Mendoza", "La Plata"]
-	},
-	
-	{
-		"country":"Englaand",
-		"city":["London", "Manchester", "Liverpool"]
 	}
 ]
