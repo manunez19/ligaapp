@@ -1,21 +1,21 @@
 [
 	{
-		"country":"Brazil",
+		"country":"Florida",
 		"city":["Sao Paulo", "Rio de Janeiro"]
 	},
 	
 	{
-		"country":"Germany",
+		"country":"New York",
 		"city":["Berlin", "Munich", "Frankfurt"]
 	},
 
 	{	
-		"country":"France",
+		"country":"California",
 		"city":["Paris", "Marselle"]
 	},
 	
 	{
-		"country":"USA",
+		"country":"Nevada",
 		"city":["Florida", "New York", "California", "Nevada"]
 	},
 	
