@@ -1,38 +1,31 @@
 [
 	{
 		"country":"Brazil",
-		"code":"BR"
+		"city":["Sao Paulo", "Rio de Janeiro"]
 	},
 	
 	{
 		"country":"Germany",
-		"code":"GE"
+		"city":["Berlin", "Munich", "Frankfurt"]
 	},
 
 	{	
 		"country":"France",
-		"code":"FR"
+		"city":["Paris", "Marselle"]
 	},
 	
 	{
 		"country":"USA",
-		"code":"US"
+		"city":["Florida", "New York", "California", "Nevada"]
 	},
 	
 	{	
 		"country":"Argentina",
-		"code":"AR"
+		"city":["Buenos Aires", "Mendoza", "La Plata"]
 	},
 	
 	{
-		"country":"Portugal",
-		"code":"PO"
-	},
-	
-	{
-		"country":"Spain",
-		"code":"SP"
+		"country":"Englaand",
+		"city":["London", "Manchester", "Liverpool"]
 	}
-	
-	
 ]
