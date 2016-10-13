@@ -1,11 +1,11 @@
 [
 	{
-		"country":"Florida",
+		"country":"Paris",
 		"city":["Sao Paulo", "Rio de Janeiro"]
 	},
 	
 	{
-		"country":"New York",
+		"country":"Marselle",
 		"city":["Berlin", "Munich", "Frankfurt"]
 	},
 
