@@ -27,5 +27,10 @@
 	{
 		"country":"Englaand",
 		"city":["London", "Manchester", "Liverpool"]
+	},
+	
+	{
+		"country":"Spain",
+		"city":["Madrid", "Barcelona"]
 	}
 ]
