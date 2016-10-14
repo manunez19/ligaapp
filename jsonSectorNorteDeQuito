@@ -1,20 +1,37 @@
 [
 	{
-		"bar":"Aura"
+		"country":"Brazil",
+		"city":["Sao Paulo", "Rio de Janeiro"],
+		"imagencountry": "https://www.flickr.com/photos/148038946@N05/30320952035/in/photostream/"
 	},
+	
 	{
-		"bar":"Love Music Gallery"
+		"country":"Germany",
+		"city":["Berlin", "Munich", "Frankfurt"],
+		"imagencountry": "https://www.flickr.com/photos/148038946@N05/30320952035/in/photostream/"
 	},
+
 	{	
-		"bar":"La Bipolar"
+		"country":"France",
+		"city":["Paris", "Marselle"],
+		"imagencountry": "https://www.flickr.com/photos/148038946@N05/30320952035/in/photostream/"
 	},
+	
 	{
-		"bar":"Hashtag"
+		"country":"USA",
+		"city":["Florida", "New York", "California", "Nevada"],
+		"imagencountry": "https://www.flickr.com/photos/148038946@N05/30320952035/in/photostream/"
 	},
+	
 	{	
-		"bar":"Lola "
+		"country":"Argentina",
+		"city":["Buenos Aires", "Mendoza", "La Plata"],
+		"imagencountry": "https://www.flickr.com/photos/148038946@N05/30320952035/in/photostream/"
 	},
+	
 	{
-		"bar":"Epica"
+		"country":"Englaand",
+		"city":["London", "Manchester", "Liverpool"],
+		"imagencountry": "https://www.flickr.com/photos/148038946@N05/30320952035/in/photostream/"
 	}
 ]
