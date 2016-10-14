@@ -16,7 +16,7 @@
 	
 	{
 		"country":"USA",
-		"city":["New York", "Nevada", "Florida", "California"]
+		"city":["Florida", "New York", "California", "Nevada"]
 	},
 	
 	{	
@@ -25,12 +25,7 @@
 	},
 	
 	{
-		"country":"England",
+		"country":"Englaand",
 		"city":["London", "Manchester", "Liverpool"]
-	},
-	
-	{
-		"country":"Spain",
-		"city":["Madrid", "Barcelona"]
 	}
 ]
