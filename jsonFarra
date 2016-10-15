@@ -1,7 +1,7 @@
 [
 	{
 		"country":"Brazil",
-		"city":["Sao Paulo", "Rio de Janeiro"]
+		"city":["Sao Paulo", "Rio de Janeiro", "Brasilia"]
 	},
 	
 	{
@@ -21,7 +21,7 @@
 	
 	{	
 		"country":"Argentina",
-		"city":["Buenos Aires", "Mendoza", "La Plata"]
+		"city":["Buenos Aires", "Mendoza", "La Plata", "Córdova", "Núñez"]
 	},
 	
 	{
