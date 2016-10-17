@@ -1,0 +1,23 @@
+[
+
+	{
+		"country":"Norte de Quito",
+		"city":["Hashtag", "Love", "Aura", "La Bipolar", "Rebel Saloon", "Strawberry Fields"]
+	},
+	
+	{
+		"country":"Centro de Quito",
+		"city":["La Ronda", "Café Mosaico"]
+	},
+
+	{	
+		"country":"Foch",
+		"city":["Azuca Beach", "Coffe Bar", "Zócalo Bar", "No Bar", "Cherusker", "Lucky Pub Charm & Beer"]
+	},
+	
+	{
+		"country":"Cumbayá",
+		"city":["Opera", "Pa' Cortarse las Venas", "St. Andrews", "Zeppelling Bar", "Turtle's Head"]
+	}
+  
+]
