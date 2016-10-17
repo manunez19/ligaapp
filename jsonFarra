@@ -32,10 +32,5 @@
 	{	
 		"country":"Argentina",
 		"city":["Buenos Aires", "Mendoza", "La Plata", "Córdova", "Núñez"]
-	},
-	
-	{	
-		"country":"Ecuador",
-		"city":["Quito", "Cuenca", "Ambato", "Riobamba"]
 	}
 ]
