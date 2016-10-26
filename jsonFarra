@@ -1,21 +1,26 @@
 [
 	{
-		"country":"America",
+		"country":"Brazil",
 		"city":["Brazil", "USA", "Argentina", "Mexico", "Canada"]
 	},
 	
 	{
-		"country":"Europe",
-		"city":["Germany", "France", "Portugal"]
+		"country":"USA",
+		"city":["Miami", "Las Vegas", "Boston", "Los Angeles"]
 	},
 	
 	{
-		"country":"Asia",
+		"country":"Argentina",
 		"city":["China", "Turkey", "Israel", "Japan", "Vietnam"]
 	},
 	
 	{
-		"country":"Africa",
+		"country":"Mexico",
+		"city":["Ghana", "Nigeria"]
+	},
+	
+	{
+		"country":"Canada",
 		"city":["Ghana", "Nigeria"]
 	}
 ]
