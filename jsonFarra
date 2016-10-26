@@ -1,36 +1,16 @@
 [
 	{
-		"country":"Brazil",
-		"city":["Sao Paulo", "Rio de Janeiro", "Brasilia"]
+		"country":"America",
+		"city":["Brazil", "USA", "Argentina", "Mexico", "Canada"]
 	},
 	
 	{
-		"country":"Germany",
-		"city":["Berlin", "Munich", "Frankfurt"]
-	},
-
-	{	
-		"country":"France",
-		"city":["Paris", "Marselle"]
+		"country":"Europe",
+		"city":["Germany", "France", "Portugal"]
 	},
 	
 	{
-		"country":"USA",
-		"city":["Miami", "New York", "Las Vegas", "Boston", "Los Angeles"]
-	},
-	
-	{
-		"country":"England",
-		"city":["London", "Manchester", "Liverpool"]
-	},
-	
-	{	
-		"country":"Portugal",
-		"city":["Lisboa"]
-	},
-	
-	{	
-		"country":"Argentina",
-		"city":["Buenos Aires", "Mendoza", "La Plata", "Córdova", "Núñez"]
+		"country":"Asia",
+		"city":["China", "Turkey", "Israel", "Japan"]
 	}
 ]
