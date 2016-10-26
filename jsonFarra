@@ -12,5 +12,10 @@
 	{
 		"country":"Asia",
 		"city":["China", "Turkey", "Israel", "Japan"]
+	},
+	
+	{
+		"country":"Africa",
+		"city":["Ghana", "Nigeria"]
 	}
 ]
